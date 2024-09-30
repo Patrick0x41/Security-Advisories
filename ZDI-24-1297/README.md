@@ -20,7 +20,7 @@ Privilege escalation from a low-privileged user to SYSTEM
 ### CVSS 7.8 Score 
 ------------------------------------------
 ## Reference
-https://www.zerodayinitiative.com/advisories/upcoming/
+https://www.zerodayinitiative.com/advisories/ZDI-24-1297/
 
 -----------------------------------------
 ## Discoverer
